@@ -1,6 +1,6 @@
 ```HTML
 <meta http-equiv="refresh" content="0; url=./soundsoup/" />
-```HTML
+```
 
 ## Welcome to GitHub Pages
 
